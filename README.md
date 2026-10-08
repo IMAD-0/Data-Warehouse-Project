@@ -87,11 +87,3 @@ psql -U postgres -c "CREATE DATABASE datawarehouse;"
 ```
 
 ### 3. Run the scripts (from the project root)
-
----
-
-## 👤 Author
-
-**Your Name**
-
-- GitHub: [@your-username](https://github.com/IMAD-0)
